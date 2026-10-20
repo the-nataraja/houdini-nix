@@ -462,7 +462,7 @@
           eulaDate = "2021-10-13";
           gccVersion = "14.2";
           hash = "sha256-fTqpT0W3WOZxW064idxSH13/EgGqIqBeHA8Ca0EunOE=";
-          outputHash = "sha256-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=";
+          outputHash = "sha256-v7XQYFwGTwj3Lk6xgZ+5ZGrHsax0nJUoCDAyh5c1cGQ=";
         }
       );
       extraFhsPkgs = pkgs: with pkgs; [
